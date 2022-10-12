@@ -1,0 +1,15 @@
+C:\Users\Marques\Documents\Programação\C#\Animation\bin\Debug\net6.0\Animation.exe
+C:\Users\Marques\Documents\Programação\C#\Animation\bin\Debug\net6.0\Animation.deps.json
+C:\Users\Marques\Documents\Programação\C#\Animation\bin\Debug\net6.0\Animation.runtimeconfig.json
+C:\Users\Marques\Documents\Programação\C#\Animation\bin\Debug\net6.0\Animation.dll
+C:\Users\Marques\Documents\Programação\C#\Animation\bin\Debug\net6.0\Animation.pdb
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.csproj.AssemblyReference.cache
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.AssemblyInfoInputs.cache
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.AssemblyInfo.cs
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.csproj.CoreCompileInputs.cache
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.dll
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\refint\Animation.dll
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.pdb
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\Animation.genruntimeconfig.cache
+C:\Users\Marques\Documents\Programação\C#\Animation\obj\Debug\net6.0\ref\Animation.dll
